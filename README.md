@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-- [What is Ashish's Code Challenge?](#what-is-ashish's-code-challenge)
+- [What is Ashish's Code Challenge?](#what-is-ashishs-code-challenge)
 - [Eligibility](#eligibility)
 - [How can I participate?](#how-can-i-participate)
   - [Requirements](#requirements)
