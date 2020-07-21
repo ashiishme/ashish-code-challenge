@@ -41,3 +41,7 @@ Feel free to use any data source that are free to use. You can find few list bel
 
 - Hacker News API
 - News API (newsapi.org)
+
+## Attribution
+
+Please don't forget to give attribution to the other authors if you are using any resources provided by them.
