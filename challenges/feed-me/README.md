@@ -1,10 +1,8 @@
 <div align="center">
 <h1>Ashish's Code Challenge</h1>
 
-<h3 style="color: #FB8C00;"> <strong> Feed Me </strong> </h3>
-
+<h3> <strong> Feed Me </strong> </h3>
 <p>A feed application that can show the recent activity or the news feed.</p>
-
 </div>
 
 ## Task: Develop a feed application
