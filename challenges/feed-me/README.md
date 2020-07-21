@@ -31,7 +31,7 @@ Feel free to add additonal data like images, authors, time & date if available.
 
 ## How to Submit?
 
-Please check the submissions guideline [here](https://github.com/ashiishme/ashish-code-challenge/blob/master/README.md).
+Please check the submissions guideline [here](https://github.com/ashiishme/ashish-code-challenge/blob/master/README.md#submissions).
 
 There are no any start date or end date for the challenges. Feel free to submit whenever you feel comfortable.
 
